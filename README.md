@@ -1,3 +1,10 @@
+# About Me
+Hi! My name is Alex and I'm a second year Computer Science student at the University of Washington. Some of my academic interests include:
+- Digital Design
+- Computational Finance
+- Applied Math
+- Algorithms
+
 ## Hi there 👋
 
 <!--
