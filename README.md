@@ -4,6 +4,7 @@ Hi! My name is Alex and I'm a second year Computer Science student at the Univer
 - Computational Finance
 - Applied Math
 - Algorithms
+
 Outside of school, my hobbies include:
 - Lifting
 - Reading (when I have time)
