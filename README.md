@@ -2,7 +2,7 @@
 Hi! My name is Alex and I'm a second year Computer Science student at the University of Washington - Seattle, minoring in Computational Finance. Some of my academic interests include:
 - Digital Circuit Design, Low-level programming, FPGAs
 - Machine Learning
-- Applied Mathematics, Computational Finance
+- Applied Mathematics
 
 [My LinkedIn](https://www.linkedin.com/in/alex-li12/)
 
