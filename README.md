@@ -1,8 +1,5 @@
 # About Me
-Hi! My name is Alex and I'm a second year Computer Science student at the University of Washington - Seattle, minoring in Computational Finance. Some of my academic interests include:
-- Digital Circuit Design, Low-level programming, FPGAs
-- Systems Programming
-- Applied Mathematics
+Hi! My name is Alex and I'm a third year Computer Science student at the University of Washington - Seattle, minoring in Applied Math. I am interested in distributed systems, especially large-scale backend infrastructure, event-driven architectures, and fault-tolerant scheduling. I’ve built a Multi-Paxos sharded key-value store, a low-level C++ web server, and production-grade AWS scheduling pipelines at Chewy. I’m currently working on real-time FPGA-driven levitation research, and a personal project where I'm building a gRPC-based C++ game engine server.
 
 [My LinkedIn](https://www.linkedin.com/in/alex-li12/)
 
